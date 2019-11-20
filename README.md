@@ -15,4 +15,4 @@ The main idea is written in the Xtracta.txt file.
 #### The support Python environment is Python 3.
 
 ## Current questions
-1. After joining the list A and list B, I got an empty list. So, I am confused about the what is the meaning of supplier name in the invoice.txt. 
+1. After joining the word list from invoice.txt and suppliername list from suppliername.txt, I got an empty list. So, I am confused about the what is the meaning of supplier name in the invoice.txt. 
