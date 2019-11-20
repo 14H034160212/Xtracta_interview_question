@@ -2,7 +2,7 @@
 ## Idea
 The main idea is written in the Xtracta.txt file. 
 
-###Question strategy:
+### Question strategy:
 1. Read the word from the invoice.txt file into a list A. (Deal with the Json)
 2. Read the supplier name from the suppliername.txt into a list B.
 3. Join the list A and list B into a list C. (list C contains the all existing supplier name)
