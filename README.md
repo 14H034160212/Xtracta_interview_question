@@ -10,5 +10,5 @@ The main idea is written in the Xtracta.txt file.
 5. Predict the possible supplier name from the remaining invoice.txt.
 
 ## File description
-###intersection_suppliername.py
+### intersection_suppliername.py
 #### This file has finished the strategy 1, 2, 3.
